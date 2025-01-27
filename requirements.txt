@@ -1,0 +1,8 @@
+streamlit
+pyttsx3
+datetime
+speechrecognition
+wikipedia
+requests
+matplotlib
+pandas
